@@ -1,0 +1,12 @@
+<config>
+	<password>
+		<passwordaddendum>,push</passwordaddendum>
+		<passwordaddendumbool>true</passwordaddendumbool>
+	</password>
+
+	<username>
+		<userdomain>@assuredpartners.com</userdomain>
+		<userdomainbool>true</userdomainbool>
+	</username>
+
+</config>
